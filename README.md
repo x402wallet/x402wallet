@@ -1,3 +1,59 @@
+<!-- 🌸 x402Wallet Cute README Header 🌸 -->
+<p align="center">
+  <img src="https://i.postimg.cc/GhnqtKSK/x402wallet-cover.png" alt="x402Wallet Cover" width="800"/>
+</p>
+
+<h2 align="center">✨ Welcome to <b>x402Wallet</b> ✨</h2>
+
+<p align="center">
+  <em>🌷 Your AI Agent's Cutest Crypto Wallet 🌷</em><br/>
+  <em>Instant, Invisible, and a little bit adorable 💫</em>
+</p>
+
+<p align="center">
+  <a href="https://x.com/x402wallet" target="_blank">
+    <img src="https://img.shields.io/badge/🐤%20Follow%20on%20X-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X">
+  </a>
+  &nbsp;
+  <a href="https://x402wallet.org" target="_blank">
+    <img src="https://img.shields.io/badge/🌸%20Visit%20Website-FFD1DC?style=for-the-badge&logoColor=white" alt="Visit Website">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🪄_Powered_by_x402Chain_-F9A8D4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💙_Built_for_AI_Agents_-A5F3FC?style=for-the-badge"/>
+</p>
+
+---
+
+### 🐰 About
+x402Wallet is a next-generation wallet for AI agents 🤖  
+Seamless, secure, and delightfully simple 💫  
+Built on the x402 protocol for instant, trustless micro-payments.
+
+---
+
+### 🌈 Features
+- 💰 **AI-native payments** — built for agents, not humans  
+- 🔐 **Non-custodial** — your key, your world  
+- 🌐 **Cross-chain support** — Solana & beyond  
+- ✨ **Beautiful interface** — sleek, cute, and future-ready  
+
+---
+
+### 💌 Connect
+<p align="center">
+  🐤 <a href="https://x.com/x402wallet" target="_blank">x.com/x402wallet</a><br/>
+  🌸 <a href="https://x402wallet.org" target="_blank">x402wallet.org</a>
+</p>
+
+---
+
+<p align="center">
+  <sub>Made with 💖 by the <b>x402</b> team · 2025</sub>
+</p>
+
 # x402 payments protocol
 
 > "1 line of code to accept digital dollars. No fee, 2 second settlement, $0.001 minimum payment."
